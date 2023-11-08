@@ -1,67 +1,67 @@
 const data = [
   {
     name: "Butter Chicken",
-    url: "https://www.seriouseats.com/images/2015/01/butter-chicken-lead-2-thumb.jpg",
+    url: "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/04/butter-chicken-recipe.jpg",
   },
   {
     name: "Chicken Tikka Masala",
-    url: "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
+    url: "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Tikka-Masala-min-750x750.jpg",
   },
   {
     name: "Biryani",
-    url: "https://www.thekitchn.com/how-to-make-chicken-biryani-recipe-228451",
+    url: "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg",
   },
   {
     name: "Naan",
-    url: "https://www.seriouseats.com/images/2014/02/naan-bread-recipe-2-thumb.jpg",
+    url: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/butter-naan.jpg",
   },
   {
     name: "Tandoori Chicken",
-    url: "https://www.bbcgoodfood.com/recipes/tandoori-chicken",
+    url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theloveofspice.com%2Ftandoori-chicken-recipe%2F&psig=AOvVaw0pzqTeb3yprNikMWZuf8F7&ust=1699466698038000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiXnvq8soIDFQAAAAAdAAAAABAD",
   },
   {
     name: "Samosas",
-    url: "https://www.bbcgoodfood.com/recipes/samosas",
+    url: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg",
   },
   {
     name: "Aloo Gobi",
-    url: "https://www.thekitchn.com/how-to-make-aloo-gobi-recipe-224683",
+    url: "https://ministryofcurry.com/wp-content/uploads/2017/04/Aloo-Gobi-5.jpg",
   },
   {
     name: "Palak Paneer",
-    url: "https://www.bbcgoodfood.com/recipes/palak-paneer",
+    url: "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
   },
   {
     name: "Dal Makhani",
-    url: "https://www.seriouseats.com/images/2014/02/how-to-make-dal-makhani-2-thumb.jpg",
+    url: "https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-Blog-500x500.jpg",
   },
   {
     name: "Chana Masala",
-    url: "https://www.thekitchn.com/how-to-make-chana-masala-recipe-224682",
+    url: "https://www.indianveggiedelight.com/wp-content/uploads/2019/05/chana-masala-recipe-featured.jpg",
   },
   {
     name: "Jeera Aloo",
-    url: "https://www.bbcgoodfood.com/recipes/jeera-aloo",
+    url: "https://www.cookwithmanali.com/wp-content/uploads/2015/09/Jeera-Aloo-Recipe-Indian-500x500.jpg",
   },
   {
     name: "Baingan Bharta",
-    url: "https://www.seriouseats.com/images/2014/02/baingan-bharta-2-thumb.jpg",
+    url: "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta-500x500.jpg",
   },
   {
     name: "Rajma Chawal",
-    url: "https://www.thekitchn.com/how-to-make-rajma-chawal-recipe-224681",
+    url: "https://www.secondrecipe.com/wp-content/uploads/2017/08/rajma-chawal-1.jpg",
   },
   {
     name: "Dosa",
-    url: "https://www.bbcgoodfood.com/recipes/dosa-recipe",
+    url: "https://www.daringgourmet.com/wp-content/uploads/2023/06/Dosa-Recipe-3.jpg",
   },
   {
     name: "Idli",
-    url: "https://www.seriouseats.com/images/2014/01/how-to-make-idlis-2-thumb.jpg",
+    url: "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/idli-recipe-4.jpg",
   },
   {
     name: "Vada",
-    url: "https://www.bbcgoodfood.com/recipes/vada-recipe",
+    url: "https://myfoodstory.com/wp-content/uploads/2022/09/Medu-Vada-5.jpg",
   },
   {
     name: "Uttapam",

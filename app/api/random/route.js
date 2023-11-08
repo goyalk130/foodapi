@@ -15,7 +15,6 @@ function getRandomElementsFromArray(array, count) {
 
 // Example usage with an array of 100 elements
 export const GET = async (req, { params }) => {
-  const originalArray = Array.from({ length: 100 }, (_, i) => i + 1); // Create an array of numbers from 1 to 100
   const randomElements = getRandomElementsFromArray(data, 10);
 
 
