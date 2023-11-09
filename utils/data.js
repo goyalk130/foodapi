@@ -45,11 +45,11 @@ const data = [
   },
   {
     name: "Baingan Bharta",
-    url: "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta-500x500.jpg",
+    url: "https://www.secondrecipe.com/wp-content/uploads/2017/08/rajma-chawal-1.jpg",
   },
   {
     name: "Rajma Chawal",
-    url: "https://www.secondrecipe.com/wp-content/uploads/2017/08/rajma-chawal-1.jpg",
+    url: "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta-500x500.jpg",
   },
   {
     name: "Dosa",
